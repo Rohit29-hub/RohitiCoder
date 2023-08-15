@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RohitiCoder/static/css/main.b3ec91d1.css",
-    "main.js": "/RohitiCoder/static/js/main.838e913e.js",
+    "main.js": "/RohitiCoder/static/js/main.93222c45.js",
     "static/js/787.28cb0dcd.chunk.js": "/RohitiCoder/static/js/787.28cb0dcd.chunk.js",
     "static/media/img8.png": "/RohitiCoder/static/media/img8.8f3c3320b9a05537669c.png",
     "static/media/cat-img-6.png": "/RohitiCoder/static/media/cat-img-6.30cb937b3f51214102b5.png",
@@ -18,11 +18,11 @@
     "static/media/myfont.ttf": "/RohitiCoder/static/media/myfont.8d2b847c2c63de003f7b.ttf",
     "index.html": "/RohitiCoder/index.html",
     "main.b3ec91d1.css.map": "/RohitiCoder/static/css/main.b3ec91d1.css.map",
-    "main.838e913e.js.map": "/RohitiCoder/static/js/main.838e913e.js.map",
+    "main.93222c45.js.map": "/RohitiCoder/static/js/main.93222c45.js.map",
     "787.28cb0dcd.chunk.js.map": "/RohitiCoder/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b3ec91d1.css",
-    "static/js/main.838e913e.js"
+    "static/js/main.93222c45.js"
   ]
 }
